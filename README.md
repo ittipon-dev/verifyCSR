@@ -9,4 +9,4 @@
 ## ChromeDriver
   Please make sure that driver is match with chrome's browser
   
-  If not match, you can download driver is here https://chromedriver.chromium.org/downloads
+  If not match, you can download driver here https://chromedriver.chromium.org/downloads
