@@ -1,9 +1,9 @@
 # verifyCSR
 
-## usage
-### single mode
+## Usage
+### Single mode
   python verifyCSR.py filename.txt
-### multiple mode
+### Multiple mode
   python verifyCSR.py file1.txt file2.txt
 
 ## ChromeDriver
